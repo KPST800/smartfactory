@@ -1,0 +1,10 @@
+pip==20.2.3
+numpy
+Pillow
+Flask
+opencv-python-headless
+tensorflow==1.15.0
+setuptools>=36
+six
+matplotlib==1.5.3
+pymysql
